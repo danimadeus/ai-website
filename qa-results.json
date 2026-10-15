@@ -1,0 +1,652 @@
+{
+  "checkedAt": "2026-10-15T10:23:40.793Z",
+  "browser": "Microsoft Edge / Playwright",
+  "results": [
+    {
+      "width": 320,
+      "overflow": false,
+      "scrollWidth": 320,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "scrollWidth": 375,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "scrollWidth": 390,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "mobileCtaHidden": true,
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "scrollWidth": 768,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "scrollWidth": 1024,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "scrollWidth": 1440,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "scrollWidth": 1920,
+      "h1": 1,
+      "brokenImages": [],
+      "badAnchors": [],
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#webpage",
+              "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach",
+              "name": "Executive Coach (EBS): berufsbegleitende Coaching Ausbildung",
+              "inLanguage": "de-DE",
+              "about": {
+                "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course"
+              }
+            },
+            {
+              "@type": "EducationalOrganization",
+              "@id": "https://www.ebs.edu/#organisation",
+              "name": "EBS Universität für Wirtschaft und Recht",
+              "url": "https://www.ebs.edu/"
+            },
+            {
+              "@type": "Course",
+              "@id": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach#course",
+              "name": "Executive Coach (EBS)",
+              "description": "Berufsbegleitender Zertifikatslehrgang für Personen mit Coachingausbildung: sechs Module, zwölf Präsenztage am Campus Rheingau und 12 ECTS.",
+              "provider": {
+                "@id": "https://www.ebs.edu/#organisation"
+              },
+              "inLanguage": "de",
+              "educationalCredentialAwarded": "Executive Coach (EBS)",
+              "coursePrerequisites": "Vorausgesetzt werden ein abgeschlossenes Universitäts-, Fachhochschul- oder Berufsakademie-Studium sowie der erfolgreiche Abschluss des Basis- und Zertifikatslehrgangs Systemisches Coaching oder eine vergleichbare Coachingausbildung. Die Programmberatung klärt mit Ihnen, ob Ihr bisheriger Ausbildungsweg passt.",
+              "numberOfCredits": 12,
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Präsenz, berufsbegleitend",
+                "startDate": "2026-11-20",
+                "endDate": "2027-09-11",
+                "location": {
+                  "@type": "Place",
+                  "name": "EBS Campus Rheingau",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oestrich-Winkel",
+                    "addressCountry": "DE"
+                  }
+                }
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7200",
+                "priceCurrency": "EUR",
+                "url": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "EBS Executive School",
+                  "item": "https://www.ebs.edu/ebs-executive-school"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Offene Programme",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Executive Coach (EBS)",
+                  "item": "https://www.ebs.edu/ebs-executive-school/offene-programme/executive-coach"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "formButton": "button",
+      "accordionOpen": true,
+      "postRequests": 0,
+      "failed": []
+    }
+  ],
+  "errors": []
+}

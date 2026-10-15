@@ -1,0 +1,14 @@
+{
+  "checked": "2026-10-15",
+  "assets": {
+    "SRHText-Light.woff2": "https://www.ebs.edu/_assets/2a35a34711ae33859ca78761c25d511b/Fonts/SRHText_Lt.woff2",
+    "SRHText-Regular.woff2": "https://www.ebs.edu/_assets/2a35a34711ae33859ca78761c25d511b/Fonts/SRHText_Rg.woff2",
+    "SRHText-Bold.woff2": "https://www.ebs.edu/_assets/2a35a34711ae33859ca78761c25d511b/Fonts/SRHText_Bd.woff2",
+    "STIXTwoText-Regular.ttf": "https://www.ebs.edu/_assets/2a35a34711ae33859ca78761c25d511b/Fonts/STIXTwoText_Rg.ttf",
+    "hero-source.webp": "https://www.ebs.edu/fileadmin/_processed_/e/7/csm_Stage_Zertifikat_Executive_Coaching_e277904693.webp",
+    "sina-roether.webp": "https://www.ebs.edu/fileadmin/_processed_/9/2/csm_Sina_Roether_web_b78b6a1a2a.webp",
+    "michael-hartmann.webp": "https://www.ebs.edu/fileadmin/_processed_/0/2/csm_Michael_Hartmann_web_44bd2fb44d.webp",
+    "favicon.png": "https://www.ebs.edu/_assets/2a35a34711ae33859ca78761c25d511b/Favicons/favicon-32x32.png"
+  },
+  "logo": "Original SVG symbols icon-Logo and icon-EBS_logo-blank from official page; paths unchanged."
+}
